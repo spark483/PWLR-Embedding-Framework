@@ -12,11 +12,21 @@ After the .npy files are stored, one may run graph classification results for ot
 
 Accepted to ICML Topology, Algebra, and Geometry in Machine Learning Workshop 2022
 
-Authors: Sun Woo Park*, Yun Young Choi*, Dosang Joe, U Jin Choi, Youngho Woo+
+Authors: 
 
-*: (Sun Woo Park and Yun Young Choi made equal contribution as first authors)
+Sun Woo Park* ([GitHub](https://github.com/spark483)), National Institute for Mathematical Sciences
 
-+: (Corresponding Author: Youngho Woo)
+Yun Young Choi* ([GitHub](https://github.com/betteryy)), National Institute for Mathematical Sciences
+
+Dosang Joe ([GitHub](https://github.com/dosjoe)), National Institute for Mathematical Sciences
+
+U Jin Choi, Korea Advanced Institute of Science and Technology
+
+Youngho Woo+ ([GitHub](https://github.com/goolewoo)), National Institute for Mathematical Sciences
+
+- *: (Sun Woo Park and Yun Young Choi made equal contribution as first authors)
+
+- +: (Corresponding Author: Youngho Woo)
 
 # File List
 - PWLR_main.ipynb
